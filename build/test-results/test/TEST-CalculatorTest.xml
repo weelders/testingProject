@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-09-07T09:16:27" hostname="FORMATEURS21-12" time="0.025">
+  <properties/>
+  <testcase name="testAddition2Nombres()" classname="CalculatorTest" time="0.022"/>
+  <testcase name="testDiviser2Nombres()" classname="CalculatorTest" time="0.002"/>
+  <system-out><![CDATA[?[0;34mMethode appelee avant chaque test?[0m
+?[0;34mMethode appelee avant chaque test?[0m
+?[0;31mLe temps total de test: 36 ms?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
